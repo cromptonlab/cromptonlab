@@ -1,4 +1,4 @@
-# Welcome to the Crompton Lab GitHub! 👩‍🔬
+# Welcome to the Crompton Lab GitHub! 🔬
 
 ## About Us
 The Crompton Lab is dedicated to advancing research in pediatric solid malignancies through innovative genomic and proteomic approaches. Our mission is to develop non-invasive prognostic biomarkers, novel therapeutic strategies, and enhance our understanding of tumor evolution and treatment resistance.
